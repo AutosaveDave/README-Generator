@@ -102,7 +102,7 @@ ${data.contact}
 
   - GitHub: [${data.gitHubUsername}](https://github.com/${data.gitHubUsername})
 
-  - Email: [${data.email}](${data.email})
+  - Email: [${data.email}](mailto:${data.email})
 `;
 };
 
